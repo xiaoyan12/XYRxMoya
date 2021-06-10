@@ -1,0 +1,6 @@
+framework module Pods_XYRxMoya_XYRxMoyaUITests {
+  umbrella header "Pods-XYRxMoya-XYRxMoyaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
